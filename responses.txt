@@ -1,0 +1,33 @@
+;hi|:hi yourself,hello-
+;hi yourself|:hi,hi yourself,hello,you stole the words from my mouth,idiot,hi you,thats mean-
+;hello|:hi yourself,hi,hello-
+;you stole the words from my mouth|:stop copying me-
+;stop copying me|:your still copying me-
+;your still copying me|:see,I am not,no I'm not-
+;see|:stop copying me-
+;I am not|:yes you are-
+;yes you are|:I am not,no I'm not,no,NO-
+;no I'm not|:yes you are,you are-
+;you are|:I am not,are not,am not,no I'm not-
+;are not|:are not what?-
+;are not what?|:stop copying me-
+;idiot|:thats rude-
+;hi you|:uraidiot-
+;you are a idiot|:stop copying me-
+;you are dumb|:thats rude,mean-
+;mean|:you are stupid-
+;thats mean|:stop copying me-
+;no|:huh?-
+;huh?|:why are you copying me again,what do you mean-
+;why are you copying me again|:stop copying me,I am not-
+;what do you mean|:huh?-
+;bagel|:bagel?-
+;bagel?|:Humph-
+;Humph|:Please stop coyping me-
+;Please stop coyping me|:copying me-
+;copying me|:Please stop copying me-
+;Please stop copying me|:STOP COPYING ME-
+;STOP COPYING ME|:stop copying me-
+;am not|:Stop-
+;Stop|:stop copying me,why?-
+;why?|:stop copying me-
